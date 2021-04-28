@@ -1,9 +1,12 @@
-# ![Hi](https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075), I'm John (João if you can pronounce it)
+# <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="25px"> I'm John (João if you can pronounce it)
 
-### A full stack developer currently living in Brazil (UTC-3)
+A passionate self-taught Full Stack web developer and a freelance Software Engineer currently living in Brazil.
 
-- Interested / learning Rust
-- I like to talk about Web, C++ and Problem Solving
+I take great care in the architecture, code quality, user experience and overall performance of everything I build.
+
+- Interested / learning Rust;
+- I like to talk about Web, C++ and Problem Solving;
+- :speech_balloon: Ask me about anything, I am happy to help;
 - :key: GPG key: [`623F94709AC24A88`](https://github.com/joaumg.gpg)
 
 ## Operating System & Tools
@@ -50,6 +53,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Github Actions](https://img.shields.io/badge/-Github_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-326ee5?style=flat-square&logo=kubernetes&logoColor=white)
 
 ### Extras
 
@@ -72,7 +76,7 @@
 [![Hacker Rank](https://img.shields.io/badge/HackerRank-white?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/joaumg)
 [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:joaumg@gmail.com)
 
-### My week
+### This week I spent my time on
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
