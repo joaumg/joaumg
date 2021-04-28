@@ -79,4 +79,8 @@ I take great care in the architecture, code quality, user experience and overall
 ### This week I spent my time on
 
 <!--START_SECTION:waka-->
+```text
+TypeScript   2 hrs 30 mins   ███████████████████████▓░   94.96 % 
+Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+```
 <!--END_SECTION:waka-->
