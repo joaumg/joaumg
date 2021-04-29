@@ -80,7 +80,7 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   2 hrs 30 mins   ███████████████████████▓░   94.96 % 
-Markdown     7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.04 % 
+TypeScript   3 hrs 23 mins   ████████████████░░░░░░░░░   64.13 % 
+Markdown     1 hr 53 mins    █████████░░░░░░░░░░░░░░░░   35.77 % 
 ```
 <!--END_SECTION:waka-->
