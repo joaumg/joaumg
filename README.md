@@ -80,7 +80,6 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-C++          23 mins         ██████████████████████░░░   88.11 % 
-Vue.js       2 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.43 % 
+C++          23 mins         ████████████████████████▒   97.69 % 
 ```
 <!--END_SECTION:waka-->
