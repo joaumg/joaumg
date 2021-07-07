@@ -80,6 +80,7 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Ruby         26 mins         ██████████████████████▒░░   89.61 % 
+JavaScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
 ```
 <!--END_SECTION:waka-->
