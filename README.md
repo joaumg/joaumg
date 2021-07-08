@@ -80,7 +80,10 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-Ruby         26 mins         ██████████████████████▒░░   89.61 % 
-JavaScript   3 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+TypeScript   1 hr 8 mins     ████████████▒░░░░░░░░░░░░   48.89 % 
+Ruby         37 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.50 % 
+JavaScript   18 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Docker       7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.17 % 
+JSON         3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.19 % 
 ```
 <!--END_SECTION:waka-->
