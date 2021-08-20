@@ -80,6 +80,8 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+TypeScript   56 mins         █████████████░░░░░░░░░░░░   52.19 % 
+C++          50 mins         ███████████▓░░░░░░░░░░░░░   46.54 % 
+C            1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
 ```
 <!--END_SECTION:waka-->
