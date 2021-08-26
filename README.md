@@ -80,10 +80,10 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   1 hr 59 mins    █████████▓░░░░░░░░░░░░░░░   39.24 % 
-C++          1 hr 43 mins    ████████▓░░░░░░░░░░░░░░░░   34.03 % 
-Vue.js       49 mins         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.04 % 
-Other        10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+C++          2 hrs 13 mins   ██████████░░░░░░░░░░░░░░░   39.91 % 
+TypeScript   1 hr 59 mins    █████████░░░░░░░░░░░░░░░░   35.71 % 
+Vue.js       49 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.74 % 
+JavaScript   12 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 % 
+Other        10 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.12 % 
 ```
 <!--END_SECTION:waka-->
