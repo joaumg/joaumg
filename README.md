@@ -80,10 +80,10 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-YAML         2 hrs 23 mins   ███████▓░░░░░░░░░░░░░░░░░   30.09 % 
-C++          1 hr 24 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.74 % 
-JavaScript   1 hr            ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 % 
-JSON         47 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
-JSX          41 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+YAML         3 hrs 9 mins    ███████▓░░░░░░░░░░░░░░░░░   30.15 % 
+Other        2 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   20.34 % 
+C++          1 hr 24 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+JavaScript   57 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.19 % 
+TypeScript   56 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.00 % 
 ```
 <!--END_SECTION:waka-->
