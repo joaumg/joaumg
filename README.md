@@ -80,8 +80,7 @@ I take great care in the architecture, code quality, user experience and overall
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   24 hrs 20 mins  ████████████████████████▒   96.83 % 
-SQL          39 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-YAML         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 % 
+TypeScript   13 hrs 20 mins  ███████████████████████▓░   95.31 % 
+SQL          39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.66 % 
 ```
 <!--END_SECTION:waka-->
