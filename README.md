@@ -75,14 +75,3 @@ I take great care in the architecture, code quality, user experience and overall
 [![Codeforces](https://img.shields.io/badge/Codeforces-white?style=flat-square&logo=Codeforces)](https://codeforces.com/profile/joaumg)
 [![Hacker Rank](https://img.shields.io/badge/HackerRank-white?style=flat-square&logo=Hackerrank)](https://www.hackerrank.com/joaumg)
 [![Email](https://img.shields.io/badge/-Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:joaumg@gmail.com)
-
-### This week I spent my time on
-
-<!--START_SECTION:waka-->
-```text
-SQL          18 mins         ██████████░░░░░░░░░░░░░░░   39.74 % 
-TypeScript   16 mins         █████████░░░░░░░░░░░░░░░░   36.42 % 
-YAML         7 mins          ████▒░░░░░░░░░░░░░░░░░░░░   17.29 % 
-Gherkin      2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-```
-<!--END_SECTION:waka-->
